@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Beatriz 👋
 
-<!--
-**Bea-Trix1/Bea-Trix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
+Sou uma desenvolvedora iniciante apaixonada por tecnologia e inovação. Atualmente sou estágiaria back-end utilizando algumas linguagens e frameworks!
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java e Golang
+- **Frameworks:** Spring Boot, Hibernate, Gin, Fiber
+- **Ferramentas:** Git, Docker, Terraform, Aws
+- **Banco de Dados:** MySQL, PostgreSQL, DynamoDB, Aurora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Bea-Trix1&show_icons=true&theme=radical)
+
+## 🌐 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/beatrizferrante1306/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:beatriz.ferrante37@gmail.com)
+
+## 💬 Fale Comigo
+Se você tiver alguma dúvida ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato!
+
+---
+:smile::thumbsup: Obrigada!

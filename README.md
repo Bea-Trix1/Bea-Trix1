@@ -1,7 +1,7 @@
 # Olá, eu sou a Beatriz 👋
 
 ## 🚀 Sobre Mim
-Sou uma desenvolvedora iniciante apaixonada por tecnologia e inovação. Atualmente sou estágiaria back-end utilizando algumas linguagens e frameworks!
+Sou uma desenvolvedora iniciante. Atualmente sou estágiaria back-end utilizando algumas linguagens e frameworks!
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Java e Golang
@@ -16,8 +16,5 @@ Sou uma desenvolvedora iniciante apaixonada por tecnologia e inovação. Atualme
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/beatrizferrante1306/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:beatriz.ferrante37@gmail.com)
 
-## 💬 Fale Comigo
-Se você tiver alguma dúvida ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato!
-
 ---
-:smile::thumbsup: Obrigada!
+:smile::thumbsup:

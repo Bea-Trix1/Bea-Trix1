@@ -1,12 +1,12 @@
 # Olá, eu sou a Beatriz 👋
 
 ## 🚀 Sobre Mim
-Sou uma desenvolvedora iniciante. Atualmente sou estágiaria back-end utilizando algumas linguagens e frameworks!
+Atualmente sou estágiaria back-end utilizando algumas linguagens e frameworks!
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Java e Golang
-- **Frameworks:** Spring Boot, Hibernate, Gin, Fiber
-- **Ferramentas:** Git, Docker, Terraform, Aws
+- **Frameworks:** Spring Boot
+- **Ferramentas:** GitHub, Aws
 - **Banco de Dados:** MySQL, PostgreSQL, DynamoDB, Aurora
 
 ## 📈 Estatísticas do GitHub
@@ -17,4 +17,3 @@ Sou uma desenvolvedora iniciante. Atualmente sou estágiaria back-end utilizando
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:beatriz.ferrante37@gmail.com)
 
 ---
-:smile::thumbsup:

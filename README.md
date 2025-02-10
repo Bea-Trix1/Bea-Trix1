@@ -1,10 +1,10 @@
 # Olá, eu sou a Beatriz 👋
 
 ## 🚀 Sobre Mim
-Atualmente sou estágiaria back-end utilizando algumas linguagens e frameworks!
+Atualmente sou engenheira de software back-end utilizando algumas linguagens e frameworks!
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java e Golang
+- **Linguagens:** Java, Python e Golang
 - **Frameworks:** Spring Boot
 - **Ferramentas:** GitHub, Aws
 - **Banco de Dados:** MySQL, PostgreSQL, DynamoDB, Aurora
